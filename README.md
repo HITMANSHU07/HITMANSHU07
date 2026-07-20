@@ -21,7 +21,7 @@ Computer Science Undergraduate | Python & Web Developer | AI Tools Enthusiast
 ---
 
 ### 📊 GitHub Stats
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=dark)
+![Himanshu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=dark)
 
 ---
 
