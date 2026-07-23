@@ -1,22 +1,32 @@
 # Hi there, I'm Himanshu Kumar 👋
 
-Computer Science Undergraduate | Python & Web Developer | AI Tools Enthusiast
+Computer Science Undergraduate | Full-Stack & AI Tools Enthusiast
 
 ---
 
 ### 🚀 About Me
 - 🎓 Pursuing B.Tech in **Computer Science & Engineering**
-- 💻 Tech Stack: **Python, Web Development, Streamlit, Git, SQL**
-- 🛠️ Current Project: **AI Resume Analyzer** (Live Web App)
-- 📫 Reach me on LinkedIn: [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar-09139330a)
+- 💻 Currently building full-stack web apps using **Next.js 14, React & MongoDB**
+- 🤖 Passionate about **Python & AI Tools**
+- 💼 Reach me on LinkedIn: [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar-09139330a)
+- 📧 Email: [himanshujonsingh570@gmail.com](mailto:himanshujonsingh570@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🧰 Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,mongodb,git,github,vscode,pycharm)](https://skillicons.dev)
+
+---
+
+### 🌟 Featured Projects
+
+#### 📌 [Eventful - Event Booking App](https://github.com/HITMANSHU07/eventful-booking-app)
+- **Tech Stack:** Next.js 14, React, TypeScript, Tailwind CSS, Clerk, MongoDB
+- **Key Features:** Server Actions, Clerk Authentication, Webhooks, CRUD Functionality.
+
+#### 📌 [AI Resume Analyzer](https://github.com/HITMANSHU07/AI_Resume_Analyzer)
+- **Tech Stack:** Python, Streamlit, NLP
+- **Key Features:** AI-powered resume analysis and skill extraction.
 
 ---
 
@@ -25,4 +35,4 @@ Computer Science Undergraduate | Python & Web Developer | AI Tools Enthusiast
 
 ---
 
-💡 *Building cool projects and learning every day!*
+*💡 Building cool projects and learning every day!*
