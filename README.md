@@ -31,7 +31,9 @@ Computer Science Undergraduate | Full-Stack & AI Tools Enthusiast
 ---
 
 ### 📊 GitHub Stats
-![Himanshu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=dark&v=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HITMANSHU07&theme=radical)
 
 ---
 
