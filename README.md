@@ -1,40 +1,129 @@
-# Hi there, I'm Himanshu Kumar 👋
+<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
+<h3 align="center">Computer Science Undergraduate | Full-Stack Developer | AI Enthusiast</h3>
 
-Computer Science Undergraduate | Full-Stack & AI Tools Enthusiast
-
----
-
-### 🚀 About Me
-- 🎓 Pursuing B.Tech in **Computer Science & Engineering**
-- 💻 Currently building full-stack web apps using **Next.js 14, React & MongoDB**
-- 🤖 Passionate about **Python & AI Tools**
-- 💼 Reach me on LinkedIn: [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar-09139330a)
-- 📧 Email: [himanshujonsingh570@gmail.com](mailto:himanshujonsingh570@gmail.com)
+<p align="center">
+  <a href="https://github.com/HITMANSHU07">
+    <img src="https://komarev.com/ghpvc/?username=HITMANSHU07&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-### 🧰 Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,mongodb,git,github,vscode,pycharm)](https://skillicons.dev)
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 💻 Full-Stack Developer (Next.js, React, TypeScript)
+- 🤖 Passionate about AI & Python
+- 🌱 Currently learning Backend & System Design
 
 ---
 
-### 🌟 Featured Projects
+## 🌐 Connect with Me
 
-#### 📌 [Eventful - Event Booking App](https://github.com/HITMANSHU07/eventful-booking-app)
-- **Tech Stack:** Next.js 14, React, TypeScript, Tailwind CSS, Clerk, MongoDB
-- **Key Features:** Server Actions, Clerk Authentication, Webhooks, CRUD Functionality.
+<p align="left">
+<a href="https://www.linkedin.com/in/himanshu-kumar-09139330a/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-#### 📌 [AI Resume Analyzer](https://github.com/HITMANSHU07/AI_Resume_Analyzer)
-- **Tech Stack:** Python, Streamlit, NLP
-- **Key Features:** AI-powered resume analysis and skill extraction.
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=radical)
-      GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=HITMANSHU07&theme=radical)
+<a href="mailto:himanshujonsingh570@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
 
 ---
 
-*💡 Building cool projects and learning every day!*
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,cpp" />
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎟 Eventful - Event Booking App
+
+**Tech Stack**
+
+- Next.js 14
+- React
+- TypeScript
+- Tailwind CSS
+- Clerk
+- MongoDB
+
+**Features**
+
+- Authentication
+- CRUD
+- Webhooks
+- Server Actions
+
+🔗 https://github.com/HITMANSHU07/eventful-booking-app
+
+---
+
+### 📄 AI Resume Analyzer
+
+**Tech Stack**
+
+- Python
+- Streamlit
+- NLP
+
+**Features**
+
+- Resume Analysis
+- Skill Extraction
+- AI Suggestions
+
+🔗 https://github.com/HITMANSHU07/AI_Resume_Analyzer
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=HITMANSHU07&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HITMANSHU07&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HITMANSHU07&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Building cool projects every day 🚀
+
+</p>
