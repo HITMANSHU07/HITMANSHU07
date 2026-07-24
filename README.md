@@ -32,7 +32,7 @@ Computer Science Undergraduate | Full-Stack & AI Tools Enthusiast
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=radical)
-
+      GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=HITMANSHU07&theme=radical)
 
 ---
