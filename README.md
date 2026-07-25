@@ -13,13 +13,8 @@
 
 <br/>
 
-## 👨‍💻 What HR Usually Skips (About Me)
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering
-- 📍 **Location:** Bhubaneswar / Odisha, India
-- 🎯 **Current Focus:** Advanced Full-Stack Architecture, System Design & AI Tools
 
----
 
 ## 🛠 Tech Stack & Tools (App-Style Grid)
 
