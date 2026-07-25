@@ -58,7 +58,5 @@
 ---
 
 <div align="center">
-  📫 **Connect with me:** 
-  [LinkedIn](https://linkedin.com/in/himanshu-kumar-09139330a) | 
-  [Email](mailto:himanshujonsingh570@gmail.com)
+  📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/himanshu-kumar-09139330a) | [Email](mailto:himanshujonsingh570@gmail.com)
 </div>
