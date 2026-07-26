@@ -1,6 +1,37 @@
-# Hi, I'm Himanshu Kumar 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&height=50&lines=Hi+There!+I'm+Himanshu+Kumar+%F0%9F%90%8B;Full-Stack+%26+Java+Backend+Developer;AI+%26+System+Design+Enthusiast" alt="Typing SVG" />
+</div>
 
-Full-Stack Developer | AI & System Design Enthusiast
+<p align="center">
+  <i>Passionate about building scalable web applications, robust backend architectures, and AI-driven solutions.</i>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💳 Digital Wallet System</h3>
+      <p align="center">
+        A secure backend service for managing wallet transactions, user balances, and peer-to-peer transfers built with high scalability.
+      </p>
+      <p align="center">
+        <b>Tech Stack:</b> Java, Spring Boot, PostgreSQL, REST APIs, Microservices
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📄 AI Resume Analyzer</h3>
+      <p align="center">
+        An AI-powered tool that analyzes resumes against job descriptions, suggesting improvements using NLP techniques.
+      </p>
+      <p align="center">
+        <b>Tech Stack:</b> Python, Streamlit, NLP, Scikit-Learn, Pandas
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -8,6 +39,7 @@ Full-Stack Developer | AI & System Design Enthusiast
 
 #### 💻 Languages & Frameworks
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,6 +56,7 @@ Full-Stack Developer | AI & System Design Enthusiast
 
 #### ⚙️ Backend, Auth & Database
 <p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
@@ -50,18 +83,26 @@ Full-Stack Developer | AI & System Design Enthusiast
 
 ### 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="Streak Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" width="60%" />
+</div>
 
 ---
 
 ### 📬 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/himanshu-kumar-09139330a)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:himanshujonsingh570@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/himanshu-kumar-09139330a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:himanshujonsingh570@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
