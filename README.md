@@ -51,7 +51,7 @@ Full-Stack Developer | AI & System Design Enthusiast
 ### 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=tokyonight&hide_border=true" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="Streak Stats" width="49%" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
 </p>
 
