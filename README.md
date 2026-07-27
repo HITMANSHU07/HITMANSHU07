@@ -96,7 +96,7 @@
 
 ---
 
-### 📬 Connect with me
+#### 📬 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-kumar-09139330a" target="_blank">
