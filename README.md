@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vcenter=true&width=650&height=55&lines=%E2%9A%A1+Hi%2C+I'm+Himanshu+Kumar;%F0%9F%92%BB+Full-Stack+%26+Java+Backend+Dev;%F0%9F%A4%96+AI+%26+System+Design+Architect" alt="Typing SVG" />
   
   <p align="center">
-    <a href="https://linkedin.com/in/himanshu-kumar-09139330a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/himanshu-kumar-09139330a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:himanshujonsingh570@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
@@ -52,13 +52,20 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Performance & Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=dracula&hide_border=true&timezone=Asia/Kolkata" alt="Streak Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=HITMANSHU07&theme=dracula&hide_border=true&timezone=Asia/Kolkata" alt="Streak Stats" width="49%" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%" />
 </div>
 
