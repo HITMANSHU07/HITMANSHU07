@@ -58,7 +58,7 @@
 ### 📊 GitHub Performance & Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=dracula&hide_border=true&timezone=Asia/Kolkata&cache_seconds=60" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=dracula&hide_border=true&timezone=Asia/Kolkata" alt="Streak Stats" width="49%" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%" />
 </div>
 
