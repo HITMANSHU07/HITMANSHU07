@@ -64,16 +64,16 @@
 
 ### 📊 GitHub Performance & Insights
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HITMANSHU07&theme=dracula&hide_border=true&timezone=Asia/Kolkata" alt="Streak Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HITMANSHU07&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+</p>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=dracula&hide_border=true&card_width=450" alt="Top Languages" width="58%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=dracula&hide_border=true" width="58%" alt="Top Languages" />
+</p>
 
 ---
 
