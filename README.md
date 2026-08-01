@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💳 Digital Wallet System</h3>
+      <h3 align="center">💼 Digital Wallet System</h3>
       <p align="center">
         A secure backend service for managing wallet transactions, user balances, and peer-to-peer transfers built with high scalability.
       </p>
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 #### 💻 Languages & Frameworks
 <p>
@@ -84,7 +84,7 @@
 ### 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HITMANSHU07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=HITMANSHU07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 </p>
 
@@ -96,7 +96,7 @@
 
 ---
 
-### 📬 Connect with me
+### 📩 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-kumar-09139330a" target="_blank">
