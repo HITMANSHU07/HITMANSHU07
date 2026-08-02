@@ -31,6 +31,17 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🎟️ Eventful Booking App</h3>
+      <p align="center">
+        A full-stack event booking application featuring secure user authentication, event listings, and seamless booking management.
+      </p>
+      <p align="center">
+        <b>Tech Stack:</b> Next.js 14, React, Tailwind CSS, Clerk Authentication, MongoDB
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -91,7 +102,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight&hide_border=true&card_width=450" width="55%" alt="Top Languages" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight&hide_border=true&card_width=450" width="55%" alt="Top Languages" />
 </p>
 
 ---
