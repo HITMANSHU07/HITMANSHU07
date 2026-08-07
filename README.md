@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Digital Wallet System</h3>
+      <h3 align="center"> 💼 Digital Wallet System</h3>
       <p align="center">
         A secure backend service for managing wallet transactions, user balances, and peer-to-peer transfers built with high scalability.
       </p>
