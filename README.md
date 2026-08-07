@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📄 AI Resume Analyzer</h3>
+      <h3 align="center"> 📄 AI Resume Analyzer</h3>
       <p align="center">
         An AI-powered tool that analyzes resumes against job descriptions, suggesting improvements using NLP techniques.
       </p>
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🎟️ Eventful Booking App</h3>
+      <h3 align="center"> 🎟️ Eventful Booking App</h3>
       <p align="center">
         A full-stack event booking application featuring secure user authentication, event listings, and seamless booking management.
       </p>
