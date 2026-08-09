@@ -8,6 +8,14 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HITMANSHU07&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="HITMANSHU07 Trophies" />
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 <table>
@@ -96,7 +104,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITMANSHU07&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats-git-master-anurag-hazra.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anurag-hazra.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight&hide_border=true&card_width=450" width="55%" alt="Top Languages" />
 </p>
 
 ---
