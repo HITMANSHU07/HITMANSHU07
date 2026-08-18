@@ -95,8 +95,8 @@
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HITMANSHU07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HITMANSHU07&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HITMANSHU07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HITMANSHU07&theme=tokyonight" width="48%" alt="Profile Stats" />
 </p>
 
 <br />
