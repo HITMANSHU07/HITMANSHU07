@@ -95,7 +95,7 @@
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HITMANSHU07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=HITMANSHU07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HITMANSHU07&theme=tokyonight" width="48%" alt="GitHub Stats" />
 </p>
 
