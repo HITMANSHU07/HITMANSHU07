@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&height=50&lines=Hi+There!+I'm+Himanshu+Kumar+%F0%9F%90%8B;Full-Stack+%26+Java+Backend+Developer;AI+%26+System+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vcenter=true&width=700&height=50&lines=Hi+There!+I'm+Himanshu+Kumar+%F0%9F%91%8B;Full-Stack+%26+Java+Backend+Developer;AI+%26+System+Design+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,32 +13,37 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"> 💼 Digital Wallet System</h3>
+      <h3 align="center">💼 Digital Wallet System</h3>
       <p align="center">
-        A secure backend service for managing wallet transactions, user balances, and peer-to-peer transfers built with high scalability.
+        A secure backend service for managing wallet transactions, user balances, and peer-to-peer transfers with a scalable architecture.
       </p>
       <p align="center">
         <b>Tech Stack:</b> Java, Spring Boot, PostgreSQL, REST APIs, Microservices
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"> 📄 AI Resume Analyzer</h3>
-      <p align="center">
-        An AI-powered tool that analyzes resumes against job descriptions, suggesting improvements using NLP techniques.
-      </p>
-      <p align="center">
-        <b>Tech Stack:</b> Python, Streamlit, NLP, Scikit-Learn, Pandas
-      </p>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <h3 align="center">📄 AI Resume Analyzer</h3>
+  <p align="center">
+    An AI-powered application that analyzes resumes against job descriptions and provides improvement suggestions using NLP.
+  </p>
+  <p align="center">
+    <b>Tech Stack:</b> Python, Streamlit, NLP, Scikit-Learn, Pandas
+  </p>
+</td>
+```
+
   </tr>
+
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center"> 🎟️ Eventful Booking App</h3>
+      <h3 align="center">🎟️ Eventful Booking App</h3>
       <p align="center">
-        A full-stack event booking application featuring secure user authentication, event listings, and seamless booking management.
+        A full-stack event booking application featuring authentication, event listings, booking management, and database integration.
       </p>
       <p align="center">
-        <b>Tech Stack:</b> Next.js 14, React, Tailwind CSS, Clerk Authentication, MongoDB
+        <b>Tech Stack:</b> Next.js, React, Tailwind CSS, Clerk, MongoDB
       </p>
     </td>
   </tr>
@@ -48,40 +53,47 @@
 
 # 🛠 Tech Stack & Tools
 
-### 💻 Languages & Frameworks
+### 💻 Languages
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-### 🌐 Web & Frontend Development
+### 🌐 Web & Frontend
+
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### ⚙️ Backend, Auth & Database
+### ⚙️ Backend & Database
+
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
 </p>
 
-### 🤖 AI, Data & ML Tools
+### 🤖 AI, Data & ML
+
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit--learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
 ### 🔧 Developer Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -95,23 +107,39 @@
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HITMANSHU07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HITMANSHU07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
-# 📩 Connect with me
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITMANSHU07&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+# 📩 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshu-kumar-09139330a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:himanshujonsingh570@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ Thanks for visiting my profile!</i>
 </p>
