@@ -85,7 +85,6 @@
 ### 🤖 AI, Data & ML
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -107,18 +106,12 @@
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HITMANSHU07&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=HITMANSHU07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITMANSHU07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HITMANSHU07&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITMANSHU07&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Graph" />
@@ -129,17 +122,4 @@
 # 📩 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu-kumar-09139330a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:himanshujonsingh570@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐ Thanks for visiting my profile!</i>
-</p>
+  <a href="https://linkedin.com/in/himanshu-kumar-09139330a" target="_blank"_
